@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Product</string>
+
+    <string name="product_toolber_product">Products</string>
+    <string name="product_toolber_product_detail">Detail</string>
+    <string name="product_toolber_back">Back</string>
+
+    <string name="product_title">Start picking your treats</string>
+    <string name="product_new">NEW</string>
+
+    <string name="product_list_empty">Empty product list</string>
+    <string name="product_empty">Empty product detail</string>
+
+    <string name="error">An error occurred !!</string>
+
+</resources>
